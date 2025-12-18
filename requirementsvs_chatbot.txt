@@ -7,4 +7,5 @@ requests==2.31.0
 streamlit-lottie==0.0.5
 pennylane==0.34.0
 google-generativeai==0.3.2
-requests==2.31.0
+
+
